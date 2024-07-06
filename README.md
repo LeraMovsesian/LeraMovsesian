@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lera!</h2>
+<h1 align="left">Hi 👋! My name is Lera!</h2>
 
 ## 💫 About Me:
 I am passionate frontend developer who believes that coding is awesome and fun!
@@ -9,8 +9,7 @@ I am passionate frontend developer who believes that coding is awesome and fun!
 
 <img align="right" height="150" src="https://gifdb.com/images/high/cute-cat-typing-computer-working-tr4yvonsldac7mtz.gif"  />
 
-## 💻 Tech Stack:
-###
+### 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -44,7 +43,7 @@ I am passionate frontend developer who believes that coding is awesome and fun!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-## 🌐 Socials:
+### 🌐 Socials:
 ###
 
 <div align="left">
