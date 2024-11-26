@@ -1,9 +1,4 @@
-<h1 align="left">Hi 👋! My name is Lera!</h2>
-
-## 💫 About Me:
-I am passionate frontend developer who believes that coding is awesome and fun!
-
-
+<h1 align="left">Hi 👋!</h2>
 
 ###
 
