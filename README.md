@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/cute-cat-typing-computer-working-tr4yvonsldac7mtz.gif"  />
-
 ### 💻 Tech Stack:
 
 <div align="left">
